@@ -10,7 +10,13 @@ public class StringBufferEx1 {
         // sb .append("Hellodfddddddddddddddd");
       
         StringBuffer sb = new StringBuffer("Shubham Pawar");
-        System.out.println(sb.length());
+        // System.out.println(sb.length());
+
+        StringBuffer s = new StringBuffer("Shubham");
+        StringBuffer p = new StringBuffer("Pawar");
+
+        System.out.println(s.equals(p));
+        System.out.println(s==p);
 
 
 
