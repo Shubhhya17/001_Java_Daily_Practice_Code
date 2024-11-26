@@ -4,7 +4,7 @@ abstract class Realme{
     }
     abstract void sendSMS();
 }
-class Airtel extends Realme{
+class Airtel extends Realme{    
     void sendSMS(){
         System.out.println("Sending SMS form Airtel");
     }
