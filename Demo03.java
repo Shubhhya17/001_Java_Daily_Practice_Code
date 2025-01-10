@@ -1,13 +1,15 @@
-public class Demo03 {
-   
-    Demo03()
+class Demo
+{
+    Demo(int a)
     {
-        System.out.println("welcome to constructors. ");
+        System.out.println("welcome to constructors");==============>Welcome to constructors
+       Demo(int){
         
+       } 
     }
     public static void main(String[] args)
     {
-        Demo03 d1=new Demo03();
+        Demo d1=new Demo(a);
         
     }
 }
