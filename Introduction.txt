@@ -1,0 +1,78 @@
+java is a programming language 
+J2ME used to developed mobile applications. 
+
+Identifer
+********
+ Any name in java Program Java class as Identifer
+ name may be 
+    variable name 
+    method name 
+    class name 
+    label name 
+
+    class Test {
+        public static void main(String args[]){
+            int x = 100;
+        }
+    }
+
+
+    rules to declered Identifer
+
+    a-z
+    A-z
+    0-9
+    $
+    _
+    we cant use reserved words as Identifers
+
+
+    if 
+    else
+    switch
+    case
+    break
+    default 
+    while
+    do 
+    for 
+
+    keywords related to modifiers[11].
+    public
+    private 
+    protected
+    static
+    final 
+    sychronized
+   volatile
+   transient
+   native
+   strictfp
+   abstract
+
+   keywords related to exception handling[6].
+   try
+   catch
+   finally
+   throw
+   throws
+   assert
+
+   keywords related to class[3].
+   class
+   interface
+   extends
+   implements
+
+   keywords related to variable[4].
+   public
+   private
+   protected
+   static
+   final
+
+   keywords related to objectID[2].
+   new
+   super
+   this 
+   instanseof

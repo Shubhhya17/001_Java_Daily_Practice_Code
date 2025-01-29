@@ -1,5 +1,5 @@
 import java.util.*;
-import java.io.*;
+// import java.io.*;
 
 //****************************************************************** */ 
 public class CollectionArrayList {
@@ -56,6 +56,11 @@ System.out.println(s1.peek()); //====>yuvan
 s1.pop();
 System.out.println(s1);  //=============>[Anirudh, Manisharma, Dsp]
 
+
+//****************************************************************** */
+
+
+
 //******************************************************************* */
 
 // 1.ArrayList=====>For fetching or retriving data(based on index value);
@@ -63,6 +68,7 @@ System.out.println(s1);  //=============>[Anirudh, Manisharma, Dsp]
 // 3.Vector========(synchronized and thread safe);
 // 4.Stack=========(synchronized ,thread safe and LIFO PRINCIPLE);
 
+//***********************************************************************
 
 
 
